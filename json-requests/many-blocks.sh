@@ -1,0 +1,1 @@
+curl -X POST --data '{"id":8,"jsonrpc":"2.0","method":"eth_getLogs","params":[{"fromBlock":"54","toBlock":"302055", "address": "0x33990122638b9132ca29c723bdf037f1a891a70c"}]}' -H "Content-Type: application/json" http://127.0.0.1:8545
