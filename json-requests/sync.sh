@@ -1,0 +1,1 @@
+curl -X POST --data '{"id":8,"jsonrpc":"2.0","method":"eth_syncing","params":[]}' -H "Content-Type: application/json"
