@@ -1,7 +1,7 @@
 #### Capnp pros
 
 - high speed (upto 2gbps ?)
-- ?
+- rpc support
 
 #### Capnp cons
 
