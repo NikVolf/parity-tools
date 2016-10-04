@@ -2,6 +2,6 @@
   "name": "web3queries",
   "version": "0.1.0",
   "dependencies": {
-    "web3": "0.15.x",
+    "web3": "0.15.x"
   }
 }
